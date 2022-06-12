@@ -1,0 +1,1 @@
+The PCMan fuzzer is intended for use on PCMan's FTP Server, a Win32 server vulnerable to fuzzing.
