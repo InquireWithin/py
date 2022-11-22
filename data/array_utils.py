@@ -22,21 +22,7 @@ def random_array(size, min_value=0, max_value=None):
     return an_array
 
 def main():
-    # numbers = range_array(1, 21)
-    # print(numbers)
-    # odds = range_array(1, 12, 2)
-    # print(odds)
-    # evens = range_array(0, 11, 2)
-    # print(evens)
-    # backwards = range_array(10, -1, -1)
-    # print(backwards)
-    # negatory = range_array(-1, -10, -1)
-    # print(negatory)
-
-    random.seed(1)
-    rand_array = random_array(10)
-    print(rand_array)
-
+    pass
 
 if __name__ == "__main__":
     main()
