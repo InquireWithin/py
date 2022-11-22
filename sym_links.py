@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Luke Bettner 3/3/22
+
 
 #Script designed to create shortcuts with symlink, based around the home directory
 #this script is assumed to be ran without sudo or root perms
